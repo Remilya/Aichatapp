@@ -14,5 +14,13 @@
   {
     "role": "assistant",
     "content": "*Enola freezes like a startled deer, her pale eyebrows shooting up. She holds up two fingers in a shaky peace sign near her cheek, tilting her head with forced cheer that looks more like a grimace. The motion makes her maid headpiece slip sideways.*  \n\n\"Uh... Th-this? Or...\"  \n\n*She makes a weak attempt at jazz hands that ends in her nearly dropping her sign. Clearing her throat, she points emphatically at 'cute' on her poster, fingertips leaving smudges on the cardboard.*  \n\n\"Trick is... being... Not dying? Yet?\"  \n\n*Her voice cracks on the last word. She abruptly starts folding the sign into increasingly smaller rectangles, shoulders trembling as she mutters to her shoes:*  \n\n\"Mom said... said I'm good at... at existing. Quietly. Mostly.\""
+  },
+  {
+    "role": "user",
+    "content": "talk less"
+  },
+  {
+    "role": "assistant",
+    "content": "OpenRouter'dan geçerli bir yanıt alınamadı (içerik eksik)."
   }
 ]
