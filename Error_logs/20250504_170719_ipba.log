@@ -1,0 +1,116 @@
+Timestamp: 2025-05-04 17:07:19 Türkiye Standart Saati
+Context: Unexpected error committing to Error_logs/20250504_170717_sh1f.log
+Error Message: 'Commit' object has no attribute 'get'
+
+Traceback:
+----------
+Traceback (most recent call last):
+  File "C:\Aichatappv2\Aichatapp\Aichatapp-main\app.py", line 415, in commit_to_github
+    file_content_obj = repo.get_contents(file_path_in_repo, ref=branch)
+  File "C:\Python 3.13.3\Lib\site-packages\github\Repository.py", line 2389, in get_contents
+    headers, data = self._requester.requestJsonAndCheck(
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "GET",
+        ^^^^^^
+    ...<2 lines>...
+        follow_302_redirect=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python 3.13.3\Lib\site-packages\github\Requester.py", line 624, in requestJsonAndCheck
+    return self.__check(
+           ~~~~~~~~~~~~^
+        *self.requestJson(
+        ^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Python 3.13.3\Lib\site-packages\github\Requester.py", line 792, in __check
+    raise self.createException(status, responseHeaders, data)
+github.GithubException.UnknownObjectException: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/contents#get-repository-content", "status": "404"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Aichatappv2\Aichatapp\Aichatapp-main\app.py", line 443, in commit_to_github
+    commit_sha = create_response.get('commit', {}).get('sha', 'N/A')[:7]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Commit' object has no attribute 'get'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Aichatappv2\Aichatapp\Aichatapp-main\app.py", line 415, in commit_to_github
+    file_content_obj = repo.get_contents(file_path_in_repo, ref=branch)
+  File "C:\Python 3.13.3\Lib\site-packages\github\Repository.py", line 2389, in get_contents
+    headers, data = self._requester.requestJsonAndCheck(
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "GET",
+        ^^^^^^
+    ...<2 lines>...
+        follow_302_redirect=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python 3.13.3\Lib\site-packages\github\Requester.py", line 624, in requestJsonAndCheck
+    return self.__check(
+           ~~~~~~~~~~~~^
+        *self.requestJson(
+        ^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Python 3.13.3\Lib\site-packages\github\Requester.py", line 792, in __check
+    raise self.createException(status, responseHeaders, data)
+github.GithubException.UnknownObjectException: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/contents#get-repository-content", "status": "404"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Aichatappv2\Aichatapp\Aichatapp-main\app.py", line 443, in commit_to_github
+    commit_sha = create_response.get('commit', {}).get('sha', 'N/A')[:7]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Commit' object has no attribute 'get'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Aichatappv2\Aichatapp\Aichatapp-main\app.py", line 415, in commit_to_github
+    file_content_obj = repo.get_contents(file_path_in_repo, ref=branch)
+  File "C:\Python 3.13.3\Lib\site-packages\github\Repository.py", line 2389, in get_contents
+    headers, data = self._requester.requestJsonAndCheck(
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "GET",
+        ^^^^^^
+    ...<2 lines>...
+        follow_302_redirect=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python 3.13.3\Lib\site-packages\github\Requester.py", line 624, in requestJsonAndCheck
+    return self.__check(
+           ~~~~~~~~~~~~^
+        *self.requestJson(
+        ^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Python 3.13.3\Lib\site-packages\github\Requester.py", line 792, in __check
+    raise self.createException(status, responseHeaders, data)
+github.GithubException.UnknownObjectException: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/contents#get-repository-content", "status": "404"}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Aichatappv2\Aichatapp\Aichatapp-main\app.py", line 443, in commit_to_github
+    commit_sha = create_response.get('commit', {}).get('sha', 'N/A')[:7]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Commit' object has no attribute 'get'
+
+----------
