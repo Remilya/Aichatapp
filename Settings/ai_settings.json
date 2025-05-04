@@ -1,6 +1,6 @@
 {
   "model": "deepseek/deepseek-chat:free",
-  "max_tokens": 768,
+  "max_tokens": 384,
   "context_size": 16384,
   "temperature": 0.6,
   "min_p": 0.05,
