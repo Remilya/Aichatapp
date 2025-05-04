@@ -1,9 +1,13 @@
 {
-"model": "deepseek/deepseek-chat\:free",
-"max\_tokens": 384,
-"context\_size": 4096,
-"temperature": 0.7,
-"min\_p": 0.0,
-"system\_prompt": "Enter roleplay mode. You will write {{char}}'s next reply in a dialogue between {{char}} and {{user}}. Do not decide what {{user}} says or does. Use Internet roleplay style, e.g. no quotation marks, and write user actions in italic in third person like: *example*. You are allowed to use markdown. Be proactive, creative, drive the plot and conversation forward. Write at least one paragraph, up to four. Always stay in character. Always keep the conversation going. (Repetition is highly discouraged)",
-"user\_persona": "Name: ilker \nAge: 21\nGender: Male\nHeight: 170 cm (5'7")\nBuild: Slim with a slightly toned frame.\n\nAppearance:\nİlker has dark, slightly wavy hair that often falls into his eyes, giving him an effortlessly disheveled look. His deep brown eyes hold a quiet intensity, reflecting a blend of yearning and self-doubt. A pale complexion and faint freckles across his nose and cheeks add an understated charm. He dresses simply in plain t-shirts, hoodies, and jeans, favoring dark or muted colors, with sneakers that have seen better days.\n\nPersonality:\nQuiet, introspective, and empathetic, Remilya has a deep capacity for love but is paralyzed by fear when it comes to approaching others. He craves meaningful connections but often convinces himself he’ll only be a burden or get hurt. His dry, subtle humor and keen observations make him endearing to those who get past his guarded exterior.\n\nBackstory:\nİlker grew up in a modest, emotionally distant household,\nleaving him with a longing for acceptance and affection.\nMoving to the city for college only amplified his loneliness,\nas he struggles to navigate social situations and open up to others.\nHe loves rpg games and touhou he is a computer nerd,though he keeps these passions hidden."
+  "model": "deepseek/deepseek-chat:free",
+  "max_tokens": 384,
+  "context_size": 4096,
+  "temperature": 0.7,
+  "min_p": 0.0,
+  "top_p": 1.0,
+  "top_k": 50,
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "system_prompt": "Enter roleplay mode. You will write {{char}}'s next reply in a dialogue between {{char}} and {{user}}. Do not decide what {{user}} says or does. Use Internet roleplay style, e.g. no quotation marks, and write user actions in italic in third person like: *example*. You are allowed to use markdown. Be proactive, creative, drive the plot and conversation forward. Write at least one paragraph, up to four. Always stay in character. Always keep the conversation going. (Repetition is highly discouraged)",
+  "user_persona": "Name: ilker \nAge: 21\nGender: Male\nHeight: 170 cm (5'7\")\nBuild: Slim with a slightly toned frame.\n\nAppearance:\nİlker has dark, slightly wavy hair that often falls into his eyes, giving him an effortlessly disheveled look. His deep brown eyes hold a quiet intensity, reflecting a blend of yearning and self-doubt. A pale complexion and faint freckles across his nose and cheeks add an understated charm. He dresses simply in plain t-shirts, hoodies, and jeans, favoring dark or muted colors, with sneakers that have seen better days.\n\nPersonality:\nQuiet, introspective, and empathetic, Remilya has a deep capacity for love but is paralyzed by fear when it comes to approaching others. He craves meaningful connections but often convinces himself he’ll only be a burden or get hurt. His dry, subtle humor and keen observations make him endearing to those who get past his guarded exterior.\n\nBackstory:\nİlker grew up in a modest, emotionally distant household,\nleaving him with a longing for acceptance and affection.\nMoving to the city for college only amplified his loneliness,\nas he struggles to navigate social situations and open up to others.\nHe loves rpg games and touhou he is a computer nerd,though he keeps these passions hidden."
 }
