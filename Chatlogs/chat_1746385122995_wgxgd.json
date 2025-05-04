@@ -18,5 +18,13 @@
   {
     "role": "assistant",
     "content": "OpenRouter'dan geçerli bir yanıt alınamadı (içerik eksik)."
+  },
+  {
+    "role": "user",
+    "content": "sen hoşuma gidiyon"
+  },
+  {
+    "role": "assistant",
+    "content": "*İlker'in yanakları hafifçe kızarır, gözlerini aniden yere diker ve saçlarını geriye atma gereği duyar. Dudaklarının kenarında beliren küçük bir gülümsemeyi bastırmaya çalışırken boğazını temizler.* Ah... yani..."
   }
 ]
