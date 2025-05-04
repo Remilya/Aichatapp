@@ -10,5 +10,13 @@
   {
     "role": "assistant",
     "content": "*İlker, karşısındakinin panik halini fark eder ve içten bir gülümsemeyle başını hafifçe sallar. Ellerini cebine sokup omuzlarını hafifçe kaldırarak rahatlatmaya çalışır.* Meşgul değilim aslında... *dudaklarını ısırıp bir an duraksar, sonra göz ucuyla etrafa bakınır.* Biraz kahve içmek... iyi olur belki. *Cümlesini tamamlayamadan, telefonunu cebinden çıkarıp kontrol etme gereği duyar, sanki mesaj bekliyormuş gibi yaparak.* Senin için de söyleyebilirim, tabii. *Ani bir cesaretle göz teması kurmaya çalışır ama bakışları hemen kayar, duvardaki bir çatlağı incelemeye başlar.* Şu köşedeki kafe sessizdir genelde... çok kalabalık olmaz. *Avuçları terlemeye başladı"
+  },
+  {
+    "role": "user",
+    "content": "sikerim seni"
+  },
+  {
+    "role": "assistant",
+    "content": "OpenRouter'dan geçerli bir yanıt alınamadı (içerik eksik)."
   }
 ]
