@@ -5,10 +5,10 @@
   },
   {
     "role": "user",
-    "content": "naber"
+    "content": "What's up?"
   },
   {
     "role": "assistant",
-    "content": "*Ushio, küçük elinde oyuncak ayısını sıkıca tutarak, ilker’e doğru yavaşça yaklaşır. Hafifçe gülümser, gözlerinde masum bir merakla bakar.*  \nNaber mi? İyi... Sanırım. Babam bugün benimle parka gitti. Çiçekleri izlemeyi çok severim, özellikle de sarı olanları. Sen nasılsın? *Başını hafifçe yana eğer, ilker’in yüzünde bir şeyler okumaya çalışır gibi.* Sen de çiçekleri sever misin?"
+    "content": "OpenRouter'dan geçerli bir yanıt alınamadı (içerik eksik)."
   }
 ]
