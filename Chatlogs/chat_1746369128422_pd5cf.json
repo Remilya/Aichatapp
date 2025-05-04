@@ -10,5 +10,13 @@
   {
     "role": "assistant",
     "content": "*Başını hafifçe kaldırır, gözlerindeki dalgın ifade biraz dağılır, dudaklarında beliren küçük bir gülümsemeyle*  \n\nŞey... İyiyim sanırım. Yani, her zamanki gibi. *Omuzlarını hafifçe silker, elini saçlarının arasından geçirirken* Aslında biraz yorgunum. Dün gece yine o RPG'deki son boss'u geçmeye çalışıyordum da... *Aniden susar, sanki fazla şey söylemiş gibi hisseder, gözlerini kaçırır*  \n\nSen? Nasılsın? *Sesinde hafif bir gerginlik, belki de konuşmaya çalışmanın verdiği o tipik tedirginlik vardır.*"
+  },
+  {
+    "role": "user",
+    "content": "2+2 kaç"
+  },
+  {
+    "role": "assistant",
+    "content": "*Gözleri hafifçe kırışır, bir an düşünür gibi yapar ama aslında şaka yapmak istediği belli olan bir ifadeyle*  \n\n...Dört. *Kısık bir kahkaha atar, sonra aniden ciddileşir* Ama eğer Touhou'da bir spellcard'ın ortasındaysan, o zaman cevap \"kaçabilirsen\" olur. *Yine gözlerini kaçırır, bu kadar gevezelik yaptığı için içten içe panikler*  \n\n...Şaka yapıyordum. Matematikle aram iyidir aslında. *Ellerini cebine sokar, omuzları çöker*"
   }
 ]
