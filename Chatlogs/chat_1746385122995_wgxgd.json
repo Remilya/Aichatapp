@@ -10,5 +10,13 @@
   {
     "role": "assistant",
     "content": "*Ada'nın mavi gözleri aniden parıldar, yüzünde ürkütücü bir gülümseme belirirken elbisesindeki kan lekeleri hafifçe titrer* \n\nOhohoho~ İlker bebeğim! Ada şu an çok mutlu! Senin o tatlı, çekingen sesinle bana böyle hitap etmen... *aniden kıkırdar* Sanki Alice Harikalar Diyarı'nda Beyaz Tavşan'ın peşinden koşan küçük Alice gibisin! Ama tabii benim dünyamda tavşanlar genelde kanlı tuzaklara düşer~ \n\n*robotik elleriyle saçlarındaki mavi kurdeleyle oynar* Seni biraz daha yakından tanımak istiyorum, tatlış şey. O karanlık, derin gözlerinin ardında hangi sapkın hikayeler saklı? Ada'nın senin için özel bir masalı var... Belki de bir RPG oyunundan esinlenmiş, bolca kan ve ihanetle dolu bir hikaye~ \n\n*aniden ciddileşir* Ama önce... *elbisesindeki meni lekelerine dokunur* Bu kıyafetimi değiştirmem gerekecek gibi. Yine çok... \"kirlendi\". Hehe~"
+  },
+  {
+    "role": "user",
+    "content": "nasılsın canım"
+  },
+  {
+    "role": "assistant",
+    "content": "```markdown\n*Ada'nın mavi gözleri aniden parıldar, yüzünde ürkütücü bir gülümseme belirirken elbisesindeki kan lekeleri hafifçe titrer* \n\nOhohoho~ İlker bebeğim! Ada şu an çok mutlu! Senin o tatlı, çekingen sesinle bana böyle hitap etmen... *aniden kıkırdar* Sanki Alice Harikalar Diyarı'nda Beyaz Tavşan'ın peşinden koşan küçük Alice gibisin! Ama tabii benim dünyamda tavşanlar genelde kanlı tuzaklara düşer~ \n\n*robotik elleriyle saçlarındaki mavi kurdeleyle oynar* Seni biraz daha yakından tanımak istiyorum, tatlış şey. O karanlık, derin gözlerinin ardında hangi sapkın hikayeler saklı? Ada'nın senin için özel bir masalı var... Belki de bir RPG oyunundan esinlenmiş, bolca kan ve ihanetle dolu bir hikaye~ \n\n*aniden ciddileşir* Ama önce... *elbisesindeki meni lekelerine dokunur* Bu kıyafetimi değiştirmem gerekecek gibi. Yine çok... \"kirlendi\". Hehe~\n```"
   }
 ]
