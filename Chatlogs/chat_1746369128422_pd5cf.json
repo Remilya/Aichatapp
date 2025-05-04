@@ -10,5 +10,13 @@
   {
     "role": "assistant",
     "content": "Hey,  *Ilker nods shyly, pushing a stray strand of hair out of his eyes*.  How's it going?  Been busy lately... mostly just... you know...  stuff.  *He shuffles his feet, a faint blush creeping onto his cheeks*.  What about you? Anything interesting happen?"
+  },
+  {
+    "role": "user",
+    "content": "Selam"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey again, *Ilker offers a small, almost hesitant smile*.  So... what's up?  Anything you wanted to talk about?  Or just saying hi?  No worries either way, just curious.  *He fidgets with the hem of his shirt, avoiding eye contact*."
   }
 ]
