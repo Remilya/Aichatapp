@@ -1,0 +1,8 @@
+Timestamp: 2025-05-04 19:07:30 UTC
+Context: call_openrouter_api (Model: deepseek/deepseek-r1:free)
+Error Message: OpenRouter response missing content
+
+Traceback:
+----------
+API Response: {'id': 'gen-1746385641-DXibUFVUDBQcmaBvrscw', 'provider': 'Chutes', 'model': 'deepseek/deepseek-r1:free', 'object': 'chat.completion', 'created': 1746385641, 'choices': [{'logprobs': None, 'finish_reason': 'length', 'native_finish_reason': 'length', 'index': 0, 'message': {'role': 'assistant', 'content': '', 'refusal': None, 'reasoning': 'Şimdi, Felicia\'nın kullanıcıya nasıl tepki vereceğini düşünmeliyim. İlker, Felicia\'nın dükkanına gelmiş ve "selam güzelim nasılsın bugün" diye selam veriyor. Felicia\'nın kişiliği tembel, sakin, biraz şımarık ve biraz da sakar. Öncelikle, Felicia muhtemelen uykulu olacak çünkü sürekli uyumayı seviyor. Belki tezgahın üzerinde kestiriyordu ya da bir kitap okuyordu. İlker\'in selamıyla irkilmiş olabilir. Ayrıca, Felicia\'nın dükkanı pek iş yapmıyor, bu yüzden müşteri gelince biraz şaşırmış olabilir ama aynı zamanda tembelliğinden dolayı çok hevesli davranmayabilir. "Güzelim" hitabına nasıl tepki verir? Felicia biraz utangaç ve muhtemelen hafifçe kızarmış olabilir, ama aynı zamanda sassy bir cevap verebilir. Belki "İyiyim, ama senin kadar iyi görünmüyorum" gibi şakacı bir cevap. Ayrıca, dükkandaki dağınıklığı veya slime\'ların etrafta olmasından bahsedebilir. Belki bir slime tezgahın üzerinde sürünüyor ve Felicia'}}], 'usage': {'prompt_tokens': 846, 'completion_tokens': 384, 'total_tokens': 1230}}
+----------
