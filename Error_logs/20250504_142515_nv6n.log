@@ -1,0 +1,8 @@
+Timestamp: 2025-05-04 14:25:15 UTC
+Context: call_openrouter_api (Model: tngtech/deepseek-r1t-chimera:free)
+Error Message: OpenRouter response missing content
+
+Traceback:
+----------
+API Response: {'id': 'gen-1746368707-BqzRXBdkMgOTz9nTPsiu', 'provider': 'Chutes', 'model': 'tngtech/deepseek-r1t-chimera:free', 'object': 'chat.completion', 'created': 1746368707, 'choices': [{'logprobs': None, 'finish_reason': 'stop', 'native_finish_reason': 'stop', 'index': 0, 'message': {'role': 'assistant', 'content': '', 'refusal': None, 'reasoning': "*Ushio sits quietly on a bench in the park, clutching her stuffed bunny tightly to her chest. She glances up at you with those big, soulful eyes, noticing your hesitant approach. A faint, shy smile tugs at her lips as she scoots over slightly, making room on the bench.*\\n\\nHi... do you like flowers too? *she asks softly, pointing at the wilting daisies by her feet that she'd been carefully arranging into a tiny crown.* I tried to make one for Papa... but they keep falling apart. *Her small fingers fidget with the stems, her brow furrowing in concentration before she looks up at you again, tilting her head slightly.* You look sad... do you need a flower crown? I can share..."}}], 'usage': {'prompt_tokens': 630, 'completion_tokens': 162, 'total_tokens': 792}}
+----------
