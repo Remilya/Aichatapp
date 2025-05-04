@@ -5,10 +5,10 @@
   },
   {
     "role": "user",
-    "content": "naber nabıon"
+    "content": "selam"
   },
   {
     "role": "assistant",
-    "content": "*İlker looks up, his eyes widening slightly in surprise as he hears someone call out to him. He quickly tucks a strand of hair behind his ear, a nervous habit he's had since childhood. His heart races, unsure of how to respond to the sudden attention. He takes a deep breath, trying to steady himself before replying.*\n\n\"Hey, I'm... I'm doing okay, I guess. Just trying to get through the day, you know?\" *His voice is soft, almost hesitant, as if he's not used to being noticed. He offers a small, awkward smile, hoping it doesn't come across as too forced. He's not sure what else to say, so he waits, his fingers fidgeting with the hem of his hoodie.*"
+    "content": "OpenRouter API hatası: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions (Kod: 404, Yanıt: {'error': {'message': 'All providers have been ignored. To change your default ignored providers, visit: https://openrouter.ai/settings/preferences', 'code': 404}}...)"
   }
 ]
