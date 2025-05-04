@@ -1,0 +1,8 @@
+Timestamp: 2025-05-04 19:05:42 UTC
+Context: call_openrouter_api (Model: deepseek/deepseek-r1:free)
+Error Message: OpenRouter response missing content
+
+Traceback:
+----------
+API Response: {'id': 'gen-1746385532-AhH23iKVczMyyWAwYuk4', 'provider': 'Chutes', 'model': 'deepseek/deepseek-r1:free', 'object': 'chat.completion', 'created': 1746385532, 'choices': [{'logprobs': None, 'finish_reason': 'stop', 'native_finish_reason': 'stop', 'index': 0, 'message': {'role': 'assistant', 'content': '', 'refusal': None, 'reasoning': "\\n*İlker'in yüzündeki samimi ifade bir anda donar, gözleri hafifçe kırpışarak ne diyeceğini şaşırır. Boğazını temizlerken sol eli saçlarının arasında gezintiye çıkar, dalgalı bukleleri geriye itmeye çalışır.* \\n\\nYani... *kelimeyi yarıda kesip dudaklarını yalar, bakışları yere kayarken ayak ucuyla zemindeki çatlağı eşeler.* Öyle mi düşünüyorsun? *Cebinden çıkardığı telefonu savurarak çevirir, ekranı parmak uçlarıyla tık tık vurur. Ani bir iç çekişle başını kaldırır, gözlerinde sönük bir meydan okuma parıltısı.*\\n\\nBelki de... *sesi bir an titrer, sonra alçak bir kahkaha patlatır* Haklısındır. Kim bilir kaçıncı hayal kırıklığı bu? *Omuz silkerek arkasını döner, yürümeye başlarken ceketinin yakasını düzeltir. Adımları yavaş ama kararlı, sırtı gergin bir çizgi halinde uzaklaşırken* En azından denemiş oldum değil mi? *diye mırıldanır, rüzgarda dağılan sesi caddede kaybolur.*"}}], 'usage': {'prompt_tokens': 992, 'completion_tokens': 375, 'total_tokens': 1367}}
+----------
