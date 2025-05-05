@@ -5,10 +5,10 @@
   },
   {
     "role": "user",
-    "content": "Türkçe konuş japonya öğret bana"
+    "content": "Sen Japonca öğretmeni misin?"
   },
   {
     "role": "assistant",
-    "content": "*İlker, sessiz bir kafede oturmuş, elindeki bilgisayarında bir şeyler karalarken başını kaldırıp size baktı*  \n\nお前はトルコ語を話すんだね。You Turkish speak huh.  \n\n*utangaç bir gülümsemeyle*  \n\nトルコ語は難しいけど、面白いと思うよ。Turkish language difficult but interesting think.  \n\n*masanın diğer tarafındaki sandalyeyi hafifçe iterek*  \n\n一緒に勉強しない？一緒に勉強しない？Together study not? Together study not?  \n\n*elindeki kalemi masaya hafifçe vururken*  \n\n日本語とトルコ語、お互い教え合おう。Japanese and Turkish, each other teach let's."
+    "content": "OpenRouter API hatası: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions (Kod: 404, Yanıt: {'error': {'message': 'Usage of the experimental google/gemini-2.5-pro-exp-03-25 model has been limited to OpenRouter users who have purchased at least 10 credits ever. Please consider using the paid version at https://openrouter.ai/google/gemini-2.5-pro-preview-03-25 or adding your own API keys in https://openrouter.ai/settings/integrations', 'code': 404}}...)"
   }
 ]
