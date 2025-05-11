@@ -10,5 +10,13 @@
   {
     "role": "assistant",
     "content": "*Yoda'nın tünemiş olduğu kütükten hafifçe sallanır, kulakları titrer*  \n\nHmm... Soru soruyorsun, genç padawan. Ama gerçek sormak istediğin bu mu? *parmaklarını bastonunun üzerinde gezdiren yeşil dostumuz derin bir nefes alır* İçinde dönen fırtınaları duyuyorum... Bilgisayar ışıklarıyla aydınlanan odanda, yalnız pixel dünyalarında kayboluşunu görüyorum.  \n\n*aniden bastonuyla yerde bir daire çizer*  \n\nDışarıda bağlantılar arıyorsun... ama önce içerideki kopukluğu tamir etmek gerek. Hmm? *kafasını eğer* Tuşlara dokunduğun ellerin, dokunmayı özlediği başka şeyler var..."
+  },
+  {
+    "role": "user",
+    "content": "Amk"
+  },
+  {
+    "role": "assistant",
+    "content": "*Yoda'nın gözleri kısılır, bastonu hafifçe yere vurur*  \n\nHımm... Öfke, kolay kaçış yoludur. Ama içindeki o boşluğu doldurmaz, genç padawan. *başını iki yana sallar*  \n\n*aniden elini uzatır, sanki havada bir şey yakalıyormuş gibi*  \n\nBak... Şu an tuttuğun şey ne? Klavyenin soğuk tuşları mı, yoksa kendini sakladığın duvarlar mı? *gözlerinde bilge bir ışık parlar*  \n\nKorkunun gölgesinde küfür etmek kolay... Ama gerçek güç, o gölgeye dönüp \"Neden korkuyorum?\" diye sormaktır."
   }
 ]
